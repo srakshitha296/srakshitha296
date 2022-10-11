@@ -1,7 +1,7 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Rakshitha Shetty</h1>
 <h3 align="center">Hello! I am an undergraduate student with a never ending love for Cloud and a burning passion for Cybersecurity. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
-<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srakshitha296&label=Profile%20views&color=0e75b6&style=flat" alt="srakshitha296" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **C , HTML, CSS, JVS**
+- 🌱 I’m currently learning **C , HTML, CSS, JVS**""
 
 - 💬 Ask me about **programming related C**
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srakshitha296&show_icons=true&locale=en" alt="srakshitha296" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srakshitha296&" alt="srakshitha296" /></p>
+
