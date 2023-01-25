@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **programming related C**
 
-- 📫 How to reach me **srakshitha296@gmail.com**
+- 📫 How to reach me **srakshitha296@gmail.com** 
+**https://www.linkedin.com/in/rakshitha-shetty-b6134724b**
 
 - ⚡ Fun fact **I think I'm Funny!!**
 
