@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **programming related C**
+- 💬 Ask me about **programming related C and JAVA**
 
 - 📫 How to reach me **srakshitha296@gmail.com** 
 **https://www.linkedin.com/in/rakshitha-shetty-b6134724b**
